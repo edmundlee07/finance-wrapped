@@ -1,0 +1,25 @@
+---
+description: Market Moves 2025 core UI rules
+alwaysApply: true
+---
+
+# Market Moves 2025 (Trading Wrapped)
+
+## Product rules (must follow before coding)
+- Mobile-first layout.
+- Desktop: center app in 390px fixed-width "Phone Container" with black borders.
+- Dark mode only with neon accents; "vibe coded" aesthetic.
+- Use Next.js App Router + Tailwind CSS + Framer Motion.
+- Data is hardcoded locally (components or local data module); no external APIs.
+- 5-7 animated slides, Instagram/TikTok story feel.
+- Visual vibe: Tokyo/Shibuya, anime realism, neon blues/oranges.
+
+## Core features
+- Story navigation: tap left/right to navigate; progress bar at top.
+- Fullscreen background media (video/image) with dark overlay.
+- Animations: staggered text, counting numbers, spring physics.
+
+## Design system
+- Background: #0a0a0a; typography: Inter or Geist Sans.
+- Heading weight 800, body 500.
+- Profit: #00FF94, Loss: #FF3366, Neutral: #888888.
